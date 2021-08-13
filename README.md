@@ -6,4 +6,3 @@ Proyecto de referencia para el curso en EDTeam de Firebase para la Web.
 - Version Final
   https://parkingedteam.web.app/
 
-@jggomezt
